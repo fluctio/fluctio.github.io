@@ -10986,8 +10986,8 @@ textarea.form-control-lg {
   font-size: 1rem;
 }
 .testimonials__picture {
-  width: 6rem;
-  height: 6rem;
+  width: 16rem;
+  height: 16rem;
   position: absolute;
   left: 50%;
   transform: translate(-50%, -50%);
